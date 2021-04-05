@@ -1,0 +1,61 @@
+.elementor-176 .elementor-element.elementor-element-7f6ccff{background-color:#eeeeee;background-image:url("http://localhost/aza/wp-content/uploads/2018/05/Untitled22-1-e1527511032749.jpg");background-repeat:no-repeat;transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-176 .elementor-element.elementor-element-7f6ccff > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-176 .elementor-element.elementor-element-4160005{text-align:left;}.elementor-176 .elementor-element.elementor-element-4160005 .elementor-widget-container{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-176 .elementor-element.elementor-element-cbf0aca.elementor-widget-heading .elementor-heading-title{color:#1c2948;}.elementor-176 .elementor-element.elementor-element-cbf0aca .elementor-heading-title{letter-spacing:0.7px;}.elementor-176 .elementor-element.elementor-element-cbf0aca > .elementor-widget-container{margin:90px 0px 0px 0px;}.elementor-176 .elementor-element.elementor-element-cbf0aca .elementor-widget-container{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-176 .elementor-element.elementor-element-dbb2638 .elementor-divider-separator{border-top-style:solid;border-top-width:2px;border-top-color:#d9272d;width:12%;}.elementor-176 .elementor-element.elementor-element-dbb2638 .elementor-divider{padding-top:1px;padding-bottom:1px;}.elementor-176 .elementor-element.elementor-element-dbb2638 > .elementor-widget-container{margin:-10px 0px 50px 0px;}.elementor-176 .elementor-element.elementor-element-dbb2638 .elementor-widget-container{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-176 .elementor-element.elementor-element-37ec4e1{background-color:#ffffff;border-style:solid;border-width:2px 2px 2px 2px;border-color:#ffffff;transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:35px 35px 35px 35px;}.elementor-176 .elementor-element.elementor-element-37ec4e1, .elementor-176 .elementor-element.elementor-element-37ec4e1 > .elementor-background-overlay{border-radius:15px 15px 15px 15px;}.elementor-176 .elementor-element.elementor-element-37ec4e1 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-176 .elementor-element.elementor-element-7d259e7 > .elementor-widget-container{margin:0px 0px 50px 0px;}.elementor-176 .elementor-element.elementor-element-7d259e7 .elementor-widget-container{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-176 .elementor-element.elementor-element-5b13a02 .pp-contact-form-7 .wpcf7-not-valid-tip{display:block !important;}.elementor-176 .elementor-element.elementor-element-5b13a02 .pp-contact-form-7 .wpcf7-validation-errors{display:block !important;}.elementor-176 .elementor-element.elementor-element-5b13a02 .pp-contact-form-7 .wpcf7-form p:not(:last-of-type) .wpcf7-form-control-wrap{margin-bottom:20px;}.elementor-176 .elementor-element.elementor-element-5b13a02 .pp-contact-form-7 .wpcf7-form label{color:#1c2948;}.elementor-176 .elementor-element.elementor-element-5b13a02 .pp-contact-form-7 .wpcf7-form-control::-webkit-input-placeholder{color:#b1b1b1;font-weight:300;}.elementor-176 .elementor-element.elementor-element-5b13a02 .pp-contact-form-7 .wpcf7-form p:nth-last-of-type(1){text-align:left;}.elementor-176 .elementor-element.elementor-element-5b13a02 .pp-contact-form-7 .wpcf7-form input[type="submit"]{display:inline-block;width:30%;border-radius:5px 5px 5px 5px;padding:18px 18px 18px 18px;margin-top:10px;}.elementor-176 .elementor-element.elementor-element-5b13a02 .elementor-widget-container{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-176 .elementor-element.elementor-element-79b1840{text-align:right;}.elementor-176 .elementor-element.elementor-element-79b1840 > .elementor-widget-container{margin:500% 0% 0% 0%;}.elementor-176 .elementor-element.elementor-element-79b1840 .elementor-widget-container{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}@media(min-width:768px){.elementor-176 .elementor-element.elementor-element-ea29eed{width:12.996%;}.elementor-176 .elementor-element.elementor-element-7835c70{width:74.008%;}.elementor-176 .elementor-element.elementor-element-c7b2d69{width:12.992%;}}/* Start custom CSS for pp-contact-form-7, class: .elementor-element-5b13a02 */#ba {
+  width: 100% !important;
+}
+#ba #left {
+  width: 50% !important;
+  float: left !important;
+}
+#ba #right{
+   width: 50% !important;
+   float: right !important;
+   padding-left: 50px;
+}
+.appo {
+    width: 78%;
+}
+#date ,#time{
+    width: 78%;
+    color: #b1b1b1;
+    font-weight: 300;
+}
+#notes {
+    width: 100%;
+}
+
+#vl {
+    border-left: 2px solid #f1f1f1;
+    height: 380px;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+    top: 0;
+}
+
+#hl{
+    border-top: 2px solid #f1f1f1;
+    position: absolute;
+    top: 50%;
+    margin-top: -3px;
+    left: 0;
+}
+#mobile{
+    margin-bottom: 30px;
+}
+
+hr {
+    display: block;
+    border-width: 2px;
+    border-color: #f1f1f1;
+}
+
+#sex, #treat, #ser {
+    color: #b1b1b1;
+    font-weight: 300;
+}
+#notes{
+    height: 100px;
+}
+#sub {
+    margin-left: 33%;
+    margin-right: 33%;
+}/* End custom CSS */
