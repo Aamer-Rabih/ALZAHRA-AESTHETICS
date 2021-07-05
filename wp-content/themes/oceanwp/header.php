@@ -9,7 +9,7 @@
 <html <?php language_attributes(); ?><?php oceanwp_schema_markup( 'html' ); ?>>
 <head>
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
-	<link rel="icon" href="<?php get_bloginfo('wpurl') ?>wp-content/uploads/2021/06/icon.jpg" type="image/jpg">
+	<link rel="icon" href="<?php echo home_url(); ?>/wp-content/uploads/2021/06/icon.jpg" type="image/jpg">
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 
 	<?php wp_head(); ?>
